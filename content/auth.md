@@ -18,7 +18,7 @@ Nielsen Norman Group är världsledande inom forskningsbaserad User Experience (
 
 ## Autentisering
 
-När vi vill autentisera en användare kan det gå till på lite olika sätt. Vi tittade i webapp-kursen hur man kan använda JWT för att autentisera sig mot ett API. Det är även det sättet som beskrivs nedan och som är i implementerad i [auth_mongo](https://github.com/emilfolino/auth_mongo/blob/main/models/auth.js#L217).
+När vi vill autentisera en användare kan det gå till på lite olika sätt. Vi tittade i webapp-kursen hur man kan använda JWT för att autentisera sig mot ett API. Det är även det sättet som beskrivs nedan och som är i implementerad i [auth_mongo](https://github.com/dbwebb-jsramverk/auth_mongo/blob/main/models/auth.js#L217).
 
 Ett annat sätt är att använda sessions-baserad inloggning som vi har tittat på tidigare i programmen. I de allra flesta fallen vill man använda sig av ett befintligt paket för att hantera sessionsinloggning. I node.js är det mest använda paketet [passport.js](http://www.passportjs.org/). passport.js hanterar även olika strategier för att hantera autentisering till exempel via olika sociala medier med hjälp av OAuth.
 

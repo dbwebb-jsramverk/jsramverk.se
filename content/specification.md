@@ -8,7 +8,7 @@
 
 I denna delen av kursen börjar vi med att ta en titt på den befintliga koden och utvärderar frontend ramverk. Målet med denna delen är att ha en applikation som fungerar enligt specifikation och vi samtidigt tagit några beslut kring vägval inför kommande delar.
 
-Börja därför med att skapa en fork av repot [dbwebb-jsramverk/ssr-editor](https://github.com/dbwebb-jsramverk/ssr-editor).
+Börja därför med att skapa en fork av repot [dbwebb-jsramverk/ssr-editor](https://github.com/dbwebb-jsramverk/ssr-editor). Och sedan en branch kallat `specification` med kommandot `git checkout -b specification`.
 
 
 
@@ -42,11 +42,13 @@ Artikeln [Frontend](/frontend) introducerar frontend ramverk och går igenom oli
 
 1. Gör ett val av frontend ramverk och dokumentera det i `README.md`. Ni behöver inte implementera något, men kan vara bra att börja titta på hur implementationen av ett frontend-ramverk kan gå till.
 
+1. Skapa en Pull Request mot ditt egna repos `main`-branch.
+
 
 
 ## Redovisning
 
-Svara på nedanstående frågor individuellt och lämna in på Canvas tillsammans med länken till ert gemensamma GitHub-repo.
+Svara på nedanstående frågor individuellt i en markdown fil i repot döpt till din akronym.md. Har du akronymen abcd24, blir alltså filen `abcd24.md`.
 
 * Vilka lärdomar gjorde du dig kring ditt sätt att ta dig an kod som du inte själv skrivit?
 
