@@ -32,7 +32,7 @@ Exempelkod till nedanstående video finns på [GitHub](https://github.com/WebDev
 
 ### GraphQL i backend
 
-I [Kursrepot](https://github.com/emilfolino/jsramverk) finns exemplet [graphql](https://github.com/emilfolino/jsramverk/tree/master/graphql) är koden från detta exemplet som förklaras nedan. Är nog bäst att hålla ganska hårt i exempelkoden i denna artikeln då det är ganska många delar som samverkar. API:t är ett API för att hämta ut data om kurser. Exempeldata innehåller två kurser, två lärare och totalt 4 studenter. API:t använder sig av samma stack som tidigare i kursen, men med ett lager av GraphQL "utanpå".
+I [Kursrepot](https://github.com/dbwebb-jsramverk/jsramverk) finns exemplet [graphql](https://github.com/dbwebb-jsramverk/jsramverk/tree/master/graphql) är koden från detta exemplet som förklaras nedan. Är nog bäst att hålla ganska hårt i exempelkoden i denna artikeln då det är ganska många delar som samverkar. API:t är ett API för att hämta ut data om kurser. Exempeldata innehåller två kurser, två lärare och totalt 4 studenter. API:t använder sig av samma stack som tidigare i kursen, men med ett lager av GraphQL "utanpå".
 
 I vårt API så här långt i kursen har vi haft olika _routes_ för att hämta olika _resurser_. När vi använder oss av GraphQL har vi en enda route och till den skickar vi olika queries för att hämta ut den data vill hämta ut. GraphQL kan också användas för att skapa och ändra data, men i detta materialet tar jag inte upp det. I den länkade tutorial ovan och i den länkade koden på GitHub finns exempel på hur man kan mutera data som det heter inom GraphQL.
 

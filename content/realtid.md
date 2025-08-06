@@ -36,7 +36,7 @@ Vi kommer denna vecka främst använda [socket.io](https://socket.io/) för real
 
 [socket.io](https://socket.io/) är ett paket för _"real-time, bidirectional and event-based communication"_ och underlättar processen för att skapa och driftsätta tjänster med realtidskommunikation. Vi ska i följande avsnitt bekanta oss med både server och klient implementationer av en chatt med websocket kommunikation.
 
-Exempelkod för både server och klienter finns under `/socket` i GitHub-repot [emilfolino/jsramverk](https://github.com/emilfolino/jsramverk).
+Exempelkod för både server och klienter finns under `/socket` i GitHub-repot [dbwebb-jsramverk/jsramverk](https://github.com/dbwebb-jsramverk/jsramverk).
 
 
 

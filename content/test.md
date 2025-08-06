@@ -144,7 +144,7 @@ Innan jag väljer verktyg så behöver jag en kodbas som jag vill testa. För de
 
 Mikael Roos' repo som jag delvis använder för att exemplifiera artikeln hittar du under repot [janaxs/blackjack](https://github.com/janaxs/blackjack).
 
-Det finns också exempelprogram i kursrepot [ramverk2 under `/test`](https://github.com/emilfolino/jsramverk/tree/master/test) som exemplifierar kommande stycken i artikeln.
+Det finns också exempelprogram i kursrepot [ramverk2 under `/test`](https://github.com/dbwebb-jsramverk/jsramverk/tree/master/test) som exemplifierar kommande stycken i artikeln.
 
 Låt oss då titta på de olika tester som körs på systemet och vilka verktyg jag valde.
 
@@ -234,7 +234,7 @@ Med det vill jag inte argumentera för att vi inte ska skriva tester, men vi vil
 
 #### Integrationstester
 
-Med integrationstester kan vi få lite mer förtroende i att vårt API fungerar som det är tänkt och på samma sätt som de klienter konsumerar API:t. Jag har gjort nedanstående steg i mitt [me-api](https://github.com/emilfolino/ramverk2-me). Använd exempelkoden där för att skaffa dig en överblick över testmetoden.
+Med integrationstester kan vi få lite mer förtroende i att vårt API fungerar som det är tänkt och på samma sätt som de klienter konsumerar API:t. Jag har gjort nedanstående steg i mitt [me-api](https://github.com/dbwebb-jsramverk/ramverk2-me). Använd exempelkoden där för att skaffa dig en överblick över testmetoden.
 
 Vi använder oss av mocha som vi tittade kort på under förre kursmomentet tillsammans med `chai` och `chai-http`. `chai` är ett 'Assertion Library' och låter oss på ett enkelt och smidigt sätt kolla om JavaScript är lika med det vi vill testa för. `chai-http` låter oss anropa router och kolla om svaren vi får tillbaka matcher det vi förväntar oss. Dokumentationen för dessa två moduler finns på [chai dokumentation](https://www.chaijs.com/) och [chai-http dokumentation](https://www.chaijs.com/plugins/chai-http/).
 
@@ -388,9 +388,9 @@ return res.json({ data: resultSet });
 
 ### Exempel
 
-I repot för [auth_mongo](https://github.com/emilfolino/auth_mongo/tree/master/test) som är en klon av auth som användes i kursen webapp finns det integrationstester med `chai` och `chai-http`. Ta en titt på detta för att se hur det kan se ut med fler testfall.
+I repot för [auth_mongo](https://github.com/dbwebb-jsramverk/auth_mongo/tree/master/test) som är en klon av auth som användes i kursen webapp finns det integrationstester med `chai` och `chai-http`. Ta en titt på detta för att se hur det kan se ut med fler testfall.
 
-Dessutom finns liknande tester i repon för [Lager-API:t](https://github.com/emilfolino/order_api) och [auth](https://github.com/emilfolino/auth).
+Dessutom finns liknande tester i repon för [Lager-API:t](https://github.com/dbwebb-jsramverk/order_api) och [auth](https://github.com/dbwebb-jsramverk/auth).
 
 
 
@@ -491,7 +491,7 @@ $npm test      # Exekvera validatorer och testfall
 
 ### GitHub Actions
 
-Först tar vi en titt på byggsystemet [GitHub Actions](https://github.com/emilfolino/auth_mongo/actions). Actions är en integrerad del av GitHub och med det ditt repo där. Actions kan användas för att automatisera en stor del av det vi i vanliga fall gör manuellt som programmerare.
+Först tar vi en titt på byggsystemet [GitHub Actions](https://github.com/dbwebb-jsramverk/auth_mongo/actions). Actions är en integrerad del av GitHub och med det ditt repo där. Actions kan användas för att automatisera en stor del av det vi i vanliga fall gör manuellt som programmerare.
 
 För att komma igång med GitHub Actions väljer du Actions i menyn för ditt GitHub Repo. Vi börjar med backend repot så gå in på det först. När du valt Actions bör du kunna hitta Node.js och under det trycka på en knapp Configure enligt nedan.
 

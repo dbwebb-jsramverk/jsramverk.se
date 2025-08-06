@@ -8,7 +8,7 @@ I denna artikeln tar vi en titt på Express och hur vi kan använda det för att
 
 ## Exempelkod
 
-Om ni vill titta på ett fullständigt exempelprogram som använder alla dessa tekniker är [auth_mongo](https://github.com/emilfolino/auth_mongo) ett bra ställe att börja. auth_mongo repot är en klon av det auth repo som användes i projektet i kursen webapp. Jag har bytt databasen från SQLite till mongodb.
+Om ni vill titta på ett fullständigt exempelprogram som använder alla dessa tekniker är [auth_mongo](https://github.com/dbwebb-jsramverk/auth_mongo) ett bra ställe att börja. auth_mongo repot är en klon av det auth repo som användes i projektet i kursen webapp. Jag har bytt databasen från SQLite till mongodb.
 
 
 

@@ -30,7 +30,7 @@ Vi låter Chief Technical Officer Eliot Horowitz hos [MongoDB](https://www.mongo
 
 I denna artikel installerar vi MongoDB lokalt på din utvecklingsdator, om du vill och har möjligt kan du använda MongoDB i Docker. Artikeln [MongoDB i Docker](mongodb-docker) visar hur det kan gå till.
 
-I kursrepot finns exempelkod under [db/mongodb](https://github.com/emilfolino/jsramverk/tree/master/db/mongodb).
+I kursrepot finns exempelkod under [db/mongodb](https://github.com/dbwebb-jsramverk/jsramverk/tree/master/db/mongodb).
 
 
 

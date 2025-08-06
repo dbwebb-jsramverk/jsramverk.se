@@ -38,7 +38,7 @@ I stycket [En liten titt på frontend](#en-liten-titt-pa-frontend) kommer några
 
 ## Exempelkod
 
-Om ni vill titta på ett fullständigt exempelprogram som använder alla dessa tekniker är [auth_mongo](https://github.com/emilfolino/auth_mongo) ett bra ställe att börja. auth_mongo repot är en klon av det auth repo som användes i projektet i kursen webapp. Jag har bytt databasen från SQLite till mongodb.
+Om ni vill titta på ett fullständigt exempelprogram som använder alla dessa tekniker är [auth_mongo](https://github.com/dbwebb-jsramverk/auth_mongo) ett bra ställe att börja. auth_mongo repot är en klon av det auth repo som användes i projektet i kursen webapp. Jag har bytt databasen från SQLite till mongodb.
 
 
 
@@ -582,7 +582,7 @@ I denna artikel installerar vi MongoDB lokalt på din utvecklingsdator, om du vi
 
 Vi kommer sedan använda oss av MongoDB Atlas för att driftsätta vår databas, men mer om det [senare](#mongodb).
 
-I kursrepot finns exempelkod under [db/mongodb](https://github.com/emilfolino/jsramverk/tree/master/db/mongodb).
+I kursrepot finns exempelkod under [db/mongodb](https://github.com/dbwebb-jsramverk/jsramverk/tree/master/db/mongodb).
 
 Om du vill lära dig mer om mongodb utanför kursen är [MongoDB University](https://university.mongodb.com/) en bra resurs.
 

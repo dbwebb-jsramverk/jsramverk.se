@@ -8,7 +8,7 @@
 
 I denna delen av kursen börjar vi med att ta en titt på den befintliga koden och utvärderar frontend ramverk. Målet med denna delen är att ha en applikation som fungerar enligt specifikation och vi samtidigt tagit några beslut kring vägval inför kommande delar.
 
-Börja därför med att ladda ner appen [emilfolino/ssr-editor](https://github.com/emilfolino/ssr-editor/archive/refs/tags/v0.1.zip), som en zip-fil. Skapa sedan ett eget Git och GitHub repo utifrån den koden. Till exempel utifrån [Git guides](https://github.com/git-guides/git-init).
+Börja därför med att skapa en fork av repot [dbwebb-jsramverk/ssr-editor](https://github.com/dbwebb-jsramverk/ssr-editor).
 
 
 
