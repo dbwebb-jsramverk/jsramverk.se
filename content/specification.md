@@ -10,6 +10,16 @@ I denna delen av kursen börjar vi med att ta en titt på den befintliga koden o
 
 Börja därför med att skapa en fork av repot [dbwebb-jsramverk/ssr-editor](https://github.com/dbwebb-jsramverk/ssr-editor). Och sedan en branch kallat `specification` med kommandot `git checkout -b specification`.
 
+I videorna nedan visar Emil hur man blir inbjudan till organisationen [dbwebb-jsramverk](https://github.com/dbwebb-jsramverk) på GitHub. Hur du Accepterar inbjudan och autentiserar ditt konto.
+
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/0BzEsBvBD8o?si=6_t4GQM46ikOMK6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/RuzoS0PXT08?si=mXiXuJUHyNHCwBTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Sedan skapar Emil en fork av repot och en branch för detta kurmoment.
+
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/_6U_LLJjYhU?si=4XSov0MCs-ZfSVyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 
 ## Läsa och titta
