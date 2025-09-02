@@ -60,20 +60,20 @@ Beskriv med 25-30 meningar varför GraphQL är att föredra framför REST-API:er
 
 ## Redovisning
 
-Gör en inlämning på Canvas med följande innehåll:
+Gör en gemensam inlämning med hjälp av en Pull Request av branchen `project` ( `git checkout -b project` ) mot er egna main-branch. Länka till de driftsatta sidorna i `README.md` som en del av din inlämning.
 
-Länka till dina GitHub repon och driftsatta sidor som en del av din inlämning.
+Följande text skrivs gemensamt i `README.md`.
 
-1. Berätta om vilka krav du har gjort och hur du har implementerad kraven. Beskriv de val du har gjort och vilka problem som uppstod på vägen.
+* Berätta om vilka krav du har gjort och hur du har implementerad kraven. Beskriv de val du har gjort och vilka problem som uppstod på vägen.
 
-2. Skriv ett allmänt stycke om hur projektet gick att genomföra. Problem/lösningar/strul/enkelt/svårt/snabbt/lång tid, etc. Var projektet lätt eller svårt? Tog det lång tid? Vad var svårt och vad gick lätt? Var det ett bra och rimligt projekt för denna kursen?
+* Skriv ett allmänt stycke om hur projektet gick att genomföra. Problem/lösningar/strul/enkelt/svårt/snabbt/lång tid, etc. Var projektet lätt eller svårt? Tog det lång tid? Vad var svårt och vad gick lätt? Var det ett bra och rimligt projekt för denna kursen?
 
-3. Avsluta med ett sista stycke med dina tankar om kursen och vad du anser om materialet och handledningen (ca 5-10 meningar). Ge feedback till lärarna och förslå eventuella förbättringsförslag till kommande kurstillfällen. Är du nöjd/missnöjd? Kommer du att rekommendera kursen till dina vänner/kollegor? På en skala 1-10, vilket betyg ger du kursen?
+I din akronym.md fil för redovisning skriver du följande text.
+
+* Avsluta med ett sista stycke med dina tankar om kursen och vad du anser om materialet och handledningen (ca 5-10 meningar). Ge feedback till lärarna och förslå eventuella förbättringsförslag till kommande kurstillfällen. Är du nöjd/missnöjd? Kommer du att rekommendera kursen till dina vänner/kollegor? På en skala 1-10, vilket betyg ger du kursen?
 
 
 
 ### Presentation
 
-**Campusstudenter:** Vi samlas och presenterar för varann i H430.
-
-**Distansstudenter:** Spela in en redovisningsvideo som ni länkar till i inlämningen på Canvas. Prata om koden ni skrivit för att utöka editorn med de nya features.
+Spela in en redovisningsvideo som ni länkar till i inlämningen på GitHub. Visa editorns funktionalitet och prata om koden ni skrivit för att utöka editorn med de nya features.

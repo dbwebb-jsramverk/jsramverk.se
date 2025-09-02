@@ -52,7 +52,7 @@ Artikeln [Frontend](/frontend) introducerar frontend ramverk och går igenom oli
 
 1. Gör ett val av frontend ramverk och dokumentera det i `README.md`. Ni behöver inte implementera något, men kan vara bra att börja titta på hur implementationen av ett frontend-ramverk kan gå till.
 
-1. Skapa en Pull Request mot ditt egna repos `main`-branch.
+1. Skapa en Pull Request mot ditt egna repos `main`-branch. Se till att inte stänga denna Pull Request då vi som lärare gör det vid rättning.
 
 
 

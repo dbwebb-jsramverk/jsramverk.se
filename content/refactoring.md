@@ -21,27 +21,29 @@ I artikeln [Driftsättning](deploy) tittar vi på hur vi kan driftsätta fronten
 
 I artikeln [Test](test) tittar vi på hur vi kan säkerställa funktionalitet genom testning av backend och frontend. Och vi implementerar en CI-kedja med GitHub Actions.
 
+Under kursmomentet bör ni arbete enligt GitHub-flow med `branches` och Pull Requests och merges mot den egna main-branchen. Vid inlämning skapar ni en ny branch `git checkout -b refactoring`, som används för inlämnings Pull Request, som en lärare merger vid rättning.
+
 
 
 ## Kravspecifikation
 
 1. Byt ut från en SQLite databas till MongoDB för backend. Och gör om så API:t svarar med JSON-data istället för olika vyer.
 
-1. Implementera frontenden med samma funktionalitet som i den befintliga appen fast i ett JavaScript ramverk. Frontend bör skapas som en fristående SPA.
+1. Implementera frontenden med samma funktionalitet som i den befintliga appen fast i ett JavaScript ramverk. Frontend bör skapas som en fristående SPA i ett eget repo.
 
 1. Implementera tester för att säkerställa funktionalitet under tiden ni gör refaktorering.
 
 1. Skapa en CI-kedja med hjälp av GitHub Actions.
 
-1. Driftsätta frontenden på studentservern enligt [instruktionerna](deploy) och backenden samt databasen i "molnet" enligt [instruktionerna](deploy).
+1. Driftsätta frontenden via GitHub Pages enligt [instruktionerna](deploy) och backenden samt databasen i "molnet" enligt [instruktionerna](deploy).
 
-1. Lämna in länkar till de driftsatta applikationerna på Canvas, samt länk till GitHub repot.
+1. Lämna in länkar till de driftsatta applikationerna i README.md.
 
 
 
 ## Redovisning
 
-Svara på nedanstående frågor individuellt och lämna in på Canvas. Lämna in tillsammans med länken till ert gemensamma GitHub-repo och länkarna till de driftsatta applikationerna.
+Svara på nedanstående frågor individuellt i din akronym.md och lämna in genom en Pull Request på GitHub. Se till att länkarna till de driftsatta applikationerna finns som en del av README.md filen.
 
 * Vad är din initiala upplevelse av dokument-orienterade databaser kontra relationsdatabaser?
 
