@@ -117,4 +117,4 @@ När vi ska driftsätta sker det på ett lite annat sätt. Alla ramverken har et
 
 I denna kursen kommer vi använda GitHub Pages för att automatiskt driftsätta våra frontend applikationer.
 
-Leta reda på en GitHub Action för att driftsätta på GitHub Pages för ditt valda ramverk. Exempel finns här för [React](https://github.com/marketplace/actions/build-and-deploy-react-app-to-github-pages), [Angular](https://github.com/marketplace/actions/angular-deploy-gh-pages-actions), [Vue](https://github.com/marketplace/actions/vue-to-github-pages) och [Svelte](https://github.com/josecelano/svelte-deploy-with-github-actions).
+Leta reda på en GitHub Action för att driftsätta på GitHub Pages för ditt valda ramverk. Exempel finns här för [React](https://medium.com/@avichhetri8/deploy-a-react-to-do-app-to-github-pages-using-github-actions-1c471d4f24b3), [Angular](https://github.com/marketplace/actions/angular-deploy-gh-pages-actions), [Vue](https://github.com/marketplace/actions/vue-to-github-pages) och [Svelte](https://github.com/josecelano/svelte-deploy-with-github-actions).
