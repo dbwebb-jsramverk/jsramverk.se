@@ -42,9 +42,7 @@ Artikeln [Frontend](/frontend) introducerar frontend ramverk och går igenom oli
 
 1. Se till att ha åtgärdat alla säkerhetshål enligt `npm audit`.
 
-1. Skapa en `README.md` fil i repot. I denna filen kommer ni under hela kursen dokumentera olika val.
-
-1. Beskriv i `README.md` vilka steg ni fick gå igenom för att få applikationen att fungera.
+1. Vi kommer i repots `README.md` fil dokumentera tillvägagångssätt under kursens gång. Beskriv i `README.md` vilka steg ni fick gå igenom för att få applikationen att fungera.
 
 1. Implementera en `POST /update` route för att uppdatera innehåll istället för att skapa nya documents hela tiden.
 
@@ -53,6 +51,8 @@ Artikeln [Frontend](/frontend) introducerar frontend ramverk och går igenom oli
 1. Gör ett val av frontend ramverk och dokumentera det i `README.md`. Ni behöver inte implementera något, men kan vara bra att börja titta på hur implementationen av ett frontend-ramverk kan gå till.
 
 1. Skapa en Pull Request mot ditt egna repos `main`-branch. Se till att inte stänga denna Pull Request då vi som lärare gör det vid rättning.
+
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/PxMYP7mti64?si=4XSov0MCs-ZfSVyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
