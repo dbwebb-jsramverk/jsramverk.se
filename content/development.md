@@ -2,6 +2,8 @@
 
 Nu har vi uppdaterad applikationen och säkerställt funktionalitet genom testning och en CI-kedja. Då blir det dags för vidareutveckling av applikationen. Vi gör det genom att implementera 3-6 nya features i vår applikation. Kraven för de olika features finns beskrivit nedan. Vid tveksamheter ställ antingen en fråga eller gör en egen tolkning som beskrivs i redovisningstexten.
 
+Börja med att skapa en ny branch `dev`. Utifrån denna branch kan ni sedan skapa feature branches som mergeas ner i `dev` under tiden ni jobbar. När ni i slutet av kursen vill göra den slutgiltiga inlämningen gör ni en Pull Request från `dev` till er egna forks `main`.
+
 
 
 ### Krav 1: Autentisering
@@ -42,11 +44,11 @@ Testa dina features från ovan så du känner förtroende för koden. Du kan vä
 
 ## Redovisning
 
-Gör en inlämning på Canvas med följande innehåll:
+Gör en inlämning i Pull Requesten från `dev` till `main` med följande innehåll:
 
 Länka till dina GitHub repon och driftsatta sidor som en del av din inlämning.
 
-1. Berätta **gemensamt** om vilka krav ni har gjort och hur ni har implementerad kraven. Beskriv de val ni har gjort och vilka problem som uppstod på vägen.
+1. Berätta **gemensamt** om vilka krav ni har gjort och hur ni har implementerad kraven. Skriv tydligt vilka krav ni implementerat. Beskriv de val ni har gjort och vilka problem som uppstod på vägen.
 
 2. Svara sedan **individuellt** på följande redovisningsfrågor:
 
@@ -62,4 +64,4 @@ Länka till dina GitHub repon och driftsatta sidor som en del av din inlämning.
 
 ### Presentation
 
-Spela in en **gemensam** redovisningsvideo som ni länkar till i inlämningen på Canvas. Prata om koden ni skrivit för de nya features och visa de features i videon. Se till att båda syns i videon samtidigt, kan vara bra att spela in via Zoom.
+Spela in en **gemensam** redovisningsvideo som ni länkar till i inlämningen på GitHub. Prata om koden ni skrivit för de nya features och visa de features i videon. Se till att båda syns i videon samtidigt, kan vara bra att spela in via Zoom.
