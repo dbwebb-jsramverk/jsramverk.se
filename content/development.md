@@ -4,6 +4,9 @@ Nu har vi uppdaterad applikationen och säkerställt funktionalitet genom testni
 
 Börja med att skapa en ny branch `dev`. Utifrån denna branch kan ni sedan skapa feature branches som mergeas ner i `dev` under tiden ni jobbar. När ni i slutet av kursen vill göra den slutgiltiga inlämningen gör ni en Pull Request från `dev` till er egna forks `main`.
 
+```shell
+$ git checkout -b dev
+```
 
 
 ### Krav 1: Autentisering
